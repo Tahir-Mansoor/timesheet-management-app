@@ -88,7 +88,7 @@ http://localhost:3000
 
 ## Live Demo
 
-npx plugins add vercel/vercel-plugin
+https://timesheet-management-app-oq1e.vercel.app/
 
 ---
 
